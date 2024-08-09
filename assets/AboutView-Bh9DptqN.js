@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as a,a as n}from"./index-CnnsK-7l.js";const c={data(){return{data:{}}},mounted(){this.$http.get("https://randomuser.me/api/").then(t=>{console.log(t)})}},r={class:"about"},_=n("h1",null,"This is an about page",-1),d=[_];function i(e,t,u,p,l,h){return a(),s("div",r,d)}const f=o(c,[["render",i]]);export{f as default};
